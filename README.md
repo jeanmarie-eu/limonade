@@ -1,10 +1,10 @@
 # limonade
 
-[![Travis-CI Build Status](https://travis-ci.org/jeanmarielepioufle/timeManip.svg?branch=master)](https://travis-ci.org/jeanmarielepioufle/limonade)
-
 limonade focuses on making easy the extraction of datasets from any format.
 
-The package will evolve according to my projects. The public package focuses on ncdf4.
+The package will evolve according to my projects.
+
+The public package works only with ncdf4 so far.
 
 Without any effort:
 
