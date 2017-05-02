@@ -4,11 +4,11 @@ Version: 0.0.1
 Authors@R: person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre"),
            person("nexModeling", role = "cph"))
 Title: limonade
-Description: limonadeST makes easy the extraction of space-time datasets.
-  The package focuses on providing simple and efficient ways to manipulate space-time grid datasets.
+Description: limonade focuses on making easy the extraction of datasets from any format.
+  The package will evolve according to my projects. The public package focuses on ncdf4.
   Without any effort:
-  i- get automatically spatial and temporal objects, and an easy access to values.
-  ii- Spatial and temporal information and values are inter-connected for an easier exploitation.
+  i- get a sum-up of the variables and the dimension of their respective dataset.
+  ii- extract datasets
 Depends:
     R (>= 3.2.5)
 Imports:
