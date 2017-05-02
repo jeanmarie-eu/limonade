@@ -10,10 +10,10 @@ Description: limonade focuses on making easy the extraction of datasets from any
   i- get a sum-up of the variables and the dimension of their respective dataset.
   ii- extract datasets.
 Depends:
+    ncdf4,
     R (>= 3.2.5)
 Imports:
-   timeManip,
-   ncdf4
+   timeManip
 Remotes:
     jeanmarielepioufle/timeManip
 License: GPL-3
