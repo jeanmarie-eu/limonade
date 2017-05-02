@@ -8,7 +8,7 @@ Description: limonade focuses on making easy the extraction of datasets from any
   The package will evolve according to my projects. The public package focuses on ncdf4.
   Without any effort:
   i- get a sum-up of the variables and the dimension of their respective dataset.
-  ii- extract datasets
+  ii- extract datasets.
 Depends:
     R (>= 3.2.5)
 Imports:
