@@ -1,8 +1,7 @@
 Package: limonade
 Type: Package
 Version: 0.0.1
-Authors@R: person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre"),
-           person("nexModeling", role = "cph"))
+Authors@R: c(person("Jean-Marie", "Lepioufle", , "me@jeanmarie.eu", c("aut","cre")))
 Title: limonade
 Description: Limonade focuses on making easy the extraction of datasets from any format.
   The package will evolve according to my projects. The public package focuses on ncdf4.
@@ -15,7 +14,7 @@ Imports:
    timeManip,
    ncdf4
 Remotes:
-    jeanmarielepioufle/timeManip
+    jeanmarie-eu/timeManip
 License: GPL-3
 Encoding: UTF-8
 LazyData: false
